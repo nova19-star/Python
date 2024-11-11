@@ -37,7 +37,7 @@ print(min(lst))
 # SLICING       # A portion of list to be displayed 
 lst1 = [ 1,2,3,"hello",7,10 ]   # Index starts from 0
 ''' Indexing from left to right ---> 0,1,2,3,4,...
-Indexing from right to right to left -1,-2,-3,-4,... <---       
+Indexing from right to left -1,-2,-3,-4,... <---       
                                      lst1 = [ 1,2,3,"hello",7,10 ] 
                                               | | |    |    |  |       
                                         --->  0 1 2    3    4  5 
