@@ -69,4 +69,3 @@ triangle_area = 0.5*b*h
 ractangle_area = b*h
 print("Area of a triangle:",triangle_area)
 print("Area of a ractangle:",ractangle_area)
-

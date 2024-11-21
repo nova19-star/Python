@@ -31,7 +31,7 @@ print(lst)
 # 7. max ( )        # To find maximum value from a list 
 print(max(lst))
 
-# 7. min ( )        # To find minimum value from a list 
+# 8. min ( )        # To find minimum value from a list 
 print(min(lst))
 
 # SLICING       # A portion of list to be displayed 
@@ -55,6 +55,7 @@ print(lst1[:])
 # To display 3rd value from right 
 print(lst1[-3])
 
+# To display index value 3 to 7
 print(lst1[2:5])        #[2:5] Here 2 is start value, so we have to start from index value 2 & 5 is the ending value and we have to stop at 'End value - 1 --> 5 - 1 = 4 (index value)
 
 # To display number of elements from list 
